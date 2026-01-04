@@ -35,7 +35,7 @@ All content in this repository adheres to the following boundaries:
 
 ---
 
-## Assumed Authorization
+## Assumed Authorisation
 
 All scenarios assume:
 
