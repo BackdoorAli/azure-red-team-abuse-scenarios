@@ -57,7 +57,6 @@ All scenarios assume **AUTHORISED testing or lab environments only**.
 scenarios/        → Attacker abuse scenarios
 diagrams/         → Visual attack flows and decision logic
 decision-trees/   → Attacker tradeoff models
-lab/              → Safe Azure lab assumptions
 ethics-and-scope.md
 ```
 
