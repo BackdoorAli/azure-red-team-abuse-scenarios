@@ -70,7 +70,7 @@ ethics-and-scope.md
 - Guest user → internal tenant pivoting
 - Conditional Access blind spots
 
-### Authorization & Privilege Escalation
+### Authorisation & Privilege Escalation
 - RBAC role chaining
 - Subscription boundary hopping
 - Management group inheritance abuse
