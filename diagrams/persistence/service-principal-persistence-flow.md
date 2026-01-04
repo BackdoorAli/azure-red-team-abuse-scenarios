@@ -15,9 +15,6 @@ No tooling or step-by-step creation instructions are included.
 
 ## Diagram: Service Principal Persistence Flow
 
-**Suggested filename (SVG/PNG):**
-`service-principal-persistence-flow.svg`
-
 ---
 
 ## Flow Description
