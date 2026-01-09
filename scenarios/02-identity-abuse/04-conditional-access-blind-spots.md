@@ -106,7 +106,7 @@ Conditional Access blind spots exist because:
 
 ---
 
-## Defensive Awareness (Optional)
+## Defensive Awareness
 
 Defenders should:
 - Enable Continuous Access Evaluation where possible
