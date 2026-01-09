@@ -105,7 +105,7 @@ Token abuse frequently evades detection because:
 
 ---
 
-## Defensive Awareness (Optional)
+## Defensive Awareness
 
 While this repository is attacker-focused, defenders should:
 - Reduce refresh token lifetimes
