@@ -108,7 +108,7 @@ Managed identity abuse is difficult to spot because:
 
 ---
 
-## Defensive Awareness (Optional)
+## Defensive Awareness
 
 Defenders should:
 - Minimise managed identity privileges
