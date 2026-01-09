@@ -103,7 +103,7 @@ Guest abuse often succeeds because:
 
 ---
 
-## Defensive Awareness (Optional)
+## Defensive Awareness
 
 Defenders should:
 - Audit guest user permissions regularly
