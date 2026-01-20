@@ -108,7 +108,7 @@ See [`diagrams/README.md`](diagrams/README.md) for the full diagram index.
 ## Ethics & Responsible Use
 
 This repository:
-- Does **not** contain exploit weaponization
+- Does **not** contain exploit weaponisation
 - Does **not** include phishing kits or malware
 - Does **not** provide step-by-step real-world abuse instructions
 
