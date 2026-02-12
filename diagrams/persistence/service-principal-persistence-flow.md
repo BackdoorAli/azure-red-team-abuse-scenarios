@@ -2,7 +2,7 @@
 
 ## Diagram Purpose
 
-This diagram visualizes how attackers establish or abuse **service principals** to maintain durable, non-interactive access in Azure.
+This diagram visualises how attackers establish or abuse **service principals** to maintain durable, non-interactive access in Azure.
 
 It is intended to:
 - Show why application identities are attractive for persistence
