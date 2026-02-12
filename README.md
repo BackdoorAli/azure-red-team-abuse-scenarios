@@ -98,7 +98,7 @@ A full index is available in [`scenarios/README.md`](scenarios/README.md).
 
 Each major scenario is paired with:
 - Attack flow diagrams
-- Trust boundary visualizations
+- Trust boundary visualisations
 - Decision logic models
 
 See [`diagrams/README.md`](diagrams/README.md) for the full diagram index.
